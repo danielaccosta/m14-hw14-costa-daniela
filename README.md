@@ -1,1 +1,2 @@
 # m14-hw14-costa-daniela
+I am notating the use of Boostrap components used. I used cards for my hobbies section and included a photo. I used a button at the bottom of the page to click and scroll back to the top.
